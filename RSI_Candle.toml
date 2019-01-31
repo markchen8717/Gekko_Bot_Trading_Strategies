@@ -1,0 +1,34 @@
+[stop_loss]
+low = 1
+high = 100
+stop_loss = 0.9
+
+[take_profit]
+low = 1
+high = 100
+take_profit = 1.4
+
+[exposure_time]
+low = 1
+high = 100
+exposure_time = 65
+
+[rsi]
+low = 1
+high = 100
+rsi_length = 14
+
+[rsi_low]
+low = 1
+high = 100
+rsi_low = 30
+
+[rsi_high]
+low = 1
+high = 100
+rsi_high = 70
+
+[time_frame]
+low = 1
+high = 60
+time_frame = 5
