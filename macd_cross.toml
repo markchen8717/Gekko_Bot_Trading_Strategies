@@ -1,0 +1,24 @@
+[short]
+low = 1
+high = 99
+short = 12
+
+[long]
+low = 2
+high = 100
+long = 26
+
+[signal]
+low = 1
+high = 100
+signal = 9
+
+[stop_loss]
+low = 0.5
+high = 99.0
+stop_loss = 0.5
+
+[take_profit]
+low = 0.2
+high = 100.0
+take_profit = 1.0
