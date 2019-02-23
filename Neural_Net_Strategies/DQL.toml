@@ -1,0 +1,21 @@
+[INDICATORS]
+rsi = 14
+macd_fast = 12
+macd_slow = 26
+macd_signal = 9
+
+[DECAY]
+factor = 0.75
+iterations = 100
+
+[MISC]
+feeMaker = 0.25
+currency = 100
+asset = 0 
+
+[NN]
+log = 1000
+iterations = 1000
+error = 0.03
+rate = 0.1
+dropout = 0.3
