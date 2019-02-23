@@ -1,5 +1,13 @@
 //gekko-bot lstm nn strat using the js synaptic library
+/*
+This is a Gekko trading bot strategy implemented using a LSTM RNN from the JS Synaptic library.
 
+Instructions:
+
+Install Synaptic at https://github.com/cazala/synaptic
+Move the strategy file into your strategies folder in your Gekko directory
+Read the comments in the strategy file for further details
+*/
 var _ = require('lodash');
 var fs = require('fs');
 var synaptic = require('synaptic'); 
