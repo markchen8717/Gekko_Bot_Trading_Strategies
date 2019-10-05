@@ -1,4 +1,4 @@
-# These are some my Gekko Trading Bot strategies
+# These are some of my Gekko Trading Bot strategies
 ## These strategies are for educational purposes only! Invest responsibly and happy learning! :smile:
 ### Instructions to test out strategies:
 -  Move the strategy js file into your strategies folder in your Gekko directory
