@@ -156,6 +156,9 @@ strat.check = function (candle) {
 
 	
     //import nn
+    /*
+    A pre-trained model is not required. One can comment out the import nn portion of the code and have the strategy generate a new model json file.
+    */
     var rawdata = fs.readFileSync('./DQL_OUT/DQL_out.json');
     var procData = JSON.parse(rawdata);
     this.myLSTM = N.Network.fromJSON(procData);
