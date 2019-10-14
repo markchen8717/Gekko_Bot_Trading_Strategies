@@ -100,7 +100,7 @@ strat.init = function() {
 		trainer.train(trainingSet);
 	}
 	
-	this.importNN() = function ()
+	this.importNN = function ()
 	{
 		var rawdata = fs.readFileSync('lstm_macd_rsi_v3.json'); 
 		var procData = JSON.parse(rawdata); 
